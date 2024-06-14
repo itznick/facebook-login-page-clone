@@ -12,11 +12,12 @@ The Project focuses on frontend development skills, showcasing proficiency in HT
 
 Here are some screenshots of the cloned Facebook login page
 
+*1. Clone Facebook login page screenshot*
 ![Screenshot 1](./assets/My%20Facebook%20Login%20Clone.png)
-*Clone Facebook login page screenshot*
 
+*2. Original Facebook login page screenshot*
 ![Screenshot 2](./assets/Original%20Facebook%20Login%20Page.png)
-*Original Facebook login page screenshot*
+
 
 ## Usage
 
